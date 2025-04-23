@@ -10,7 +10,7 @@ class OperOver {
     }
 }
 
-public class Pr2b {
+public class Pr1b {
     public static void main(String[] args) {
         OperOver ob = new OperOver();
         int sum1 = ob.add(5, 10);
