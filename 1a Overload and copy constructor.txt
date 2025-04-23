@@ -19,7 +19,7 @@ class Myclass {
     }
 }
 
-public class Pa1a {
+public class Pr1a {
     public static void main(String[] args) {
         Myclass ob1 = new Myclass();        
         Myclass ob2 = new Myclass(7);       
